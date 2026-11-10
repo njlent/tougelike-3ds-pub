@@ -3,6 +3,10 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+## 3DS 00.01.36
+- HOW TO PLAY no longer cuts its pages off. Every picture on the top screen scrolls to its end, the route map no longer covers the heat chart, and long text on the bottom screen scrolls too.
+- HOW TO PLAY now shows the rival tag key with its icons, the set bonuses and what each heat level adds, as the web game does.
+
 ## 3DS 00.01.35
 - The HOME Menu version crashed right at launch on a New 3DS or New 2DS. It now starts.
 
