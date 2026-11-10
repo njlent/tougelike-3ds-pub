@@ -4,7 +4,7 @@
 
 # Tougelike for Nintendo 3DS
 
-Retro racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
+Night racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
 
 **[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu and a 3DSX for the Homebrew Launcher.
 
@@ -35,7 +35,7 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njle
 
 - **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, banner and jingle on the HOME Menu.
 - **Homebrew Launcher:** copy the `.3dsx` to the `/3ds/` folder on the SD card and start it from the Homebrew Launcher.
-- **Emulator:** open the `.3dsx`, or install the `.cia` there with File, Install CIA.
+- **Emulator:** open the `.3dsx` in Azahar, or install the `.cia` there with File, Install CIA.
 
 Both keep their saves in the same files on the SD card, so you can switch between them.
 
@@ -66,3 +66,7 @@ Loading a save replaces the progress that was there.
 | START | Pause | |
 
 Menus also take taps on the bottom screen. Driving is buttons only. The intro is off by default; turn it on under OPTIONS, GAME, INTRO.
+
+## Feedback
+
+Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works.
