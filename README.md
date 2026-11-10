@@ -35,7 +35,7 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njle
 
 - **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, banner and jingle on the HOME Menu.
 - **Homebrew Launcher:** copy the `.3dsx` to the `/3ds/` folder on the SD card and start it from the Homebrew Launcher.
-- **Emulator:** open the `.3dsx` in Azahar, or install the `.cia` there with File, Install CIA.
+- **Emulator:** open the `.3dsx`, or install the `.cia` there with File, Install CIA.
 
 Both keep their saves in the same files on the SD card, so you can switch between them.
 
