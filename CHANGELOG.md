@@ -1,31 +1,7 @@
 # 3DS changelog
 
-Player-facing notes for the 3DS port, newest first. The 3DS build lists these above the game's own
-`CHANGELOG.md`.
-
-## 3DS 00.01.33
-- The download page's logo is now just the Tougelike name.
-
-## 3DS 00.01.32
-- The download page opens with the Tougelike logo, is shorter, and points players without a 3DS to the browser version.
-
-## 3DS 00.01.31
-- The game has its own download page, with every release, the changelog, the screenshots and the licence.
-
-## 3DS 00.01.30
-- The screenshots on the project page are now a plain grid, without captions.
-
-## 3DS 00.01.29
-- Nothing changes in the game. The gameplay videos now also show the garage, the statistics, the atlas and the route map.
-
-## 3DS 00.01.28
-- Nothing changes in the game. This version adds the tools that record gameplay videos of the port.
-
-## 3DS 00.01.27
-- The project page now has gameplay screenshots, install steps, the requirements and the controls.
-
-## 3DS 00.01.26
-- Each release now says what changed, how to install it and what you need, with checksums for both downloads.
+What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
+game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
 ## 3DS 00.01.25
 - The game can now be installed to the HOME Menu, with its own icon, banner and jingle.

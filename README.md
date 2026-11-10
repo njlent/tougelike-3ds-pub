@@ -39,6 +39,15 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njle
 
 Both keep their saves in the same files on the SD card, so you can switch between them.
 
+## Saves from the web game
+
+Saves move both ways between the browser game and the 3DS, so you can carry on where you left off.
+
+- **Browser to 3DS:** in the web game, open OPTIONS, SAVE and press SAVE to download your save. Copy the file to `/3ds/tougelike/` on the SD card and rename it `import.json`. On the 3DS, open OPTIONS, switch to the SAVE tab with L or R, choose IMPORT FROM SD, check the save it shows and choose LOAD.
+- **3DS to browser:** on the same tab, choose EXPORT TO SD. It writes `tougelikeplus-save-<date>.json` to `/3ds/tougelike/`. In the web game, open OPTIONS, SAVE, press LOAD and pick that file.
+
+Loading a save replaces the progress that was there.
+
 ## Requirements
 
 - A Nintendo 3DS, 2DS, New 3DS or New 2DS with custom firmware (Luma3DS) to run homebrew.
