@@ -3,6 +3,9 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+## 3DS 00.01.34
+- Quitting the game on a real 3DS showed a crash screen and shut the console down. It now goes back to the HOME Menu or the Homebrew Launcher.
+
 ## 3DS 00.01.25
 - The game can now be installed to the HOME Menu, with its own icon, banner and jingle.
 - The intro no longer plays at every start. Turn it back on under OPTIONS, GAME, INTRO.
