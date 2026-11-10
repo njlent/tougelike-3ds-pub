@@ -6,7 +6,7 @@
 
 Retro racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
 
-**[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu and a 3DSX for the Homebrew Launcher.
+**[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu, a 3DSX for the Homebrew Launcher and a .3ds for emulators.
 
 No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njlent.de/tougelike/), on PC and phone.
 
@@ -38,7 +38,7 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njle
 - **QR code:** in FBI, choose Remote Install, then Scan QR Code, and scan the code shown here. FBI downloads the newest CIA and installs it to the HOME Menu; the console needs to be online.
 - **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, banner and jingle on the HOME Menu.
 - **Homebrew Launcher:** copy the `.3dsx` to the `/3ds/` folder on the SD card and start it from the Homebrew Launcher.
-- **Emulator:** open the `.3dsx`, or install the `.cia` there with File, Install CIA.
+- **Emulator:** open the `.3ds` or the `.3dsx`, or install the `.cia` with File, Install CIA. The `.3ds` is made for emulators and does not run on a console.
 
 Both keep their saves in the same files on the SD card, so you can switch between them.
 
