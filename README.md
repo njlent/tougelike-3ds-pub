@@ -4,7 +4,7 @@
 
 # Tougelike for Nintendo 3DS
 
-Night racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
+Retro racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
 
 **[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu and a 3DSX for the Homebrew Launcher.
 
