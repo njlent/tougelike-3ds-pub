@@ -33,6 +33,9 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njle
 
 ## Install
 
+<img align="right" src="assets/install-qr.png" width="180" alt="QR code for FBI that installs the newest CIA">
+
+- **QR code:** in FBI, choose Remote Install, then Scan QR Code, and scan the code shown here. FBI downloads the newest CIA and installs it to the HOME Menu; the console needs to be online.
 - **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, banner and jingle on the HOME Menu.
 - **Homebrew Launcher:** copy the `.3dsx` to the `/3ds/` folder on the SD card and start it from the Homebrew Launcher.
 - **Emulator:** open the `.3dsx`, or install the `.cia` there with File, Install CIA.
