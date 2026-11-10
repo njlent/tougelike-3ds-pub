@@ -1,0 +1,84 @@
+TOUGELIKE COPYRIGHT AND USAGE TERMS
+
+Copyright (c) 2026 Noel Justin Lent (njlent). All rights reserved.
+
+Official game: https://njlent.de/tougelike/
+Imprint and permissions contact: https://njlent.de/imprint.html
+
+1. Scope
+
+These terms cover the original Tougelike game software and assets owned by
+Noel Justin Lent, including source code, compiled builds, scripts, shaders,
+gameplay systems, artwork, models, textures, icons, animations, music and
+sound effects. They apply to these materials individually and together.
+
+2. Permitted play
+
+You may access and play the game for personal, non-commercial use through
+the official website on njlent.de. Normal browser caching and installing
+the official site's home-screen app for that purpose are permitted.
+You may share a link to the official game.
+
+3. Gameplay videos, streams and reviews
+
+You may create, publish, share and monetise gameplay videos, livestreams,
+showcases and reviews of Tougelike, including screenshots and gameplay
+audio used as part of that coverage. Advertising, sponsorships,
+subscriptions and viewer donations for this coverage are permitted.
+
+To use this permission, include both:
+
+- Credit: "Tougelike by Noel Justin Lent (njlent)".
+- A link to the official game: https://njlent.de/tougelike/.
+
+Place the credit and link in the video or stream description, accompanying
+review text, or another readily visible place associated with the coverage.
+No separate permission is needed for coverage that meets these conditions.
+
+This permission covers the original material owned by the rights holder;
+third-party rights remain as described below. It does not permit rehosting
+or embedding the playable game, distributing playable copies, or
+distributing or reusing standalone game assets outside that coverage.
+
+4. Rights reserved
+
+Except for the permissions above, permission required by applicable law,
+or a separate written agreement with the rights holder, no rights to
+copy, modify, adapt, extract, reuse, distribute, publish, sublicense,
+sell or otherwise exploit the game or its assets are granted.
+
+In particular, prior written permission is required to:
+
+- Host, rehost, mirror, embed or frame the game on another website,
+  server, game portal, application or service, whether free or paid.
+- Distribute playable copies, ports, modified builds or asset packs,
+  or make them available for others to download or play.
+- Monetise or commercially exploit the game or its assets, directly
+  or indirectly, including through sales, paid access, subscriptions,
+  in-app purchases, advertising, sponsorship or fundraising tied to
+  their use or distribution, other than coverage permitted by section 3.
+
+Public access to source files or assets does not grant a reuse licence.
+These restrictions apply to recipients, not to the rights holder's own
+hosting, portfolio, promotion or commercial use on njlent.de or elsewhere.
+
+5. Third-party and existing rights
+
+Third-party software, fonts, reference materials and other third-party
+assets remain subject to their respective licences and rights. These
+terms do not replace those licences or claim ownership of third-party
+material or trademarks. Any valid rights previously granted under an
+irrevocable licence remain unaffected for the material they cover.
+
+Copyright exceptions, limitations and other rights that cannot lawfully
+be restricted remain unaffected. No trademark rights are granted.
+
+6. Warranty and contact
+
+The game is provided as is, without warranties to the extent permitted
+by applicable law. This notice does not exclude liability or consumer
+rights that cannot legally be excluded.
+
+For uses requiring permission, contact the rights holder through the
+imprint above before proceeding. This is proprietary software and
+content, not an open-source or Creative Commons release.
