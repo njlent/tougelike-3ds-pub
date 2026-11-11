@@ -3,6 +3,15 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+## 3DS 00.01.37
+- The speed-ups in this version are still experimental. So far they have run in the emulator and passed one test on a real console. If the picture looks wrong or the game stutters, turn OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and report what you saw.
+- A New 3DS now runs the game at 60 frames a second where it keeps up, and holds a steady 30 where it does not. OPTIONS, VISUAL, FRAME RATE set to 30 keeps it at 30 all the time.
+- An Old 3DS or 2DS holds 30 frames a second through much more of a run. In the emulator at their speed, a late run went from 19 to 27 frames a second.
+- Driving looks smoother at the same frame rate. The game's clock used to follow how long each frame took to work out. It now follows the pictures on the screen.
+- The scenery is rebuilt on the console's second processor core. OPTIONS, VISUAL, SECOND CORE turns that off.
+- DEBUG now shows the frame rate, the CPU and GPU time of a frame and the free memory.
+- The game writes a line about its speed to tougelike.log on the SD card every 600 frames.
+
 ## 3DS 00.01.36
 - HOW TO PLAY no longer cuts its pages off. Every picture on the top screen scrolls to its end, the route map no longer covers the heat chart, and long text on the bottom screen scrolls too.
 - HOW TO PLAY now shows the rival tag key with its icons, the set bonuses and what each heat level adds, as the web game does.

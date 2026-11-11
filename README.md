@@ -57,6 +57,12 @@ Loading a save replaces the progress that was there.
 - For sound, a DSP firmware dump at `sdmc:/3ds/dspfirm.cdc`, made once with DSP1.
 - About 60 MB free on the SD card.
 
+## Performance
+
+A New 3DS aims for 60 fps and an Old 3DS or 2DS for 30. Each drops to the next steady rate, 30 or 20, when a busy late-game run gets too heavy. OPTIONS, VISUAL, FRAME RATE holds 30 throughout for players who prefer that.
+
+The speed-ups that came with 3DS 00.01.37 are still experimental. So far they have run in the Azahar emulator and passed one test on a real console. If the picture looks wrong or the game stutters, turn OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback).
+
 ## Controls
 
 | Button | Driving | Menus |
