@@ -3,6 +3,17 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+## 3DS 00.01.39
+- OPTIONS, VISUAL, PARTICLES now sets how much the module effects draw. DYNAMIC draws every spark, flame and puff of smoke, STATIC about half of them, DISABLED the fewest. Before, DYNAMIC and STATIC looked the same on the 3DS.
+- PARTICLES starts on STATIC, which runs a little faster in runs full of effects. A setting saved by an earlier version moves to STATIC once, and DISABLED stays.
+
+## 3DS 00.01.38
+- An Old 3DS or 2DS that cannot hold 30 frames a second no longer drops to a steady 20. It shows every frame as soon as it is ready. A real Old 3DS ran the last version at 20 early in a run, and the emulator at that console's speed runs this one at 24.
+- The installed version never used the second processor core on an Old 3DS or 2DS, because the system refused the share of it the game asked for. It gets that share now.
+- Late in a run the game stuttered twice a second while it rebuilt the module list on the bottom screen. It now rebuilds the list only when it changes.
+- Below 30 frames a second the gauges on the top screen are redrawn every other frame, which leaves more time for the race.
+- The speed lines in tougelike.log now say which part of the game the time went to.
+
 ## 3DS 00.01.37
 - The speed-ups in this version are still experimental. So far they have run in the emulator and passed one test on a real console. If the picture looks wrong or the game stutters, turn OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and report what you saw.
 - A New 3DS now runs the game at 60 frames a second where it keeps up, and holds a steady 30 where it does not. OPTIONS, VISUAL, FRAME RATE set to 30 keeps it at 30 all the time.

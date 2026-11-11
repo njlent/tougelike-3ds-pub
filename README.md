@@ -6,7 +6,7 @@
 
 Retro racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
 
-**[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu, a 3DSX for the Homebrew Launcher and a .3ds for emulators.
+**[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu, a 3DSX for the Homebrew Launcher and a .3ds for emulators. On the console, Universal-Updater installs it too. Tougelike is [listed on Universal-DB](https://db.universal-team.net/3ds/tougelike).
 
 No 3DS? Tougelike also runs in the browser at [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), on PC and phone.
 
@@ -35,6 +35,7 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/games/tougelike](https:
 
 <img align="right" src="assets/install-qr.png" width="180" alt="QR code for FBI that installs the newest CIA">
 
+- **Universal-Updater:** find Tougelike in Universal-Updater and install the CIA or the 3DSX from there. A new version shows up there as an update. The listing is on [Universal-DB](https://db.universal-team.net/3ds/tougelike).
 - **QR code:** in FBI, choose Remote Install, then Scan QR Code, and scan the code shown here. FBI downloads the newest CIA and installs it to the HOME Menu; the console needs to be online.
 - **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, banner and jingle on the HOME Menu.
 - **Homebrew Launcher:** copy the `.3dsx` to the `/3ds/` folder on the SD card and start it from the Homebrew Launcher.
@@ -59,9 +60,9 @@ Loading a save replaces the progress that was there.
 
 ## Performance
 
-A New 3DS aims for 60 fps and an Old 3DS or 2DS for 30. Each drops to the next steady rate, 30 or 20, when a busy late-game run gets too heavy. OPTIONS, VISUAL, FRAME RATE holds 30 throughout for players who prefer that.
+A New 3DS aims for 60 fps and holds 30 where it cannot keep up. An Old 3DS or 2DS aims for 30 and, below that, shows each frame as soon as it is ready. A real Old 3DS ran 00.01.37 at 20 fps early in a run and about 14 late in a long one. The emulator, set to that console's speed, runs 00.01.38 at 24 and 18. OPTIONS, VISUAL, FRAME RATE holds 30 at most for players who prefer that.
 
-The speed-ups that came with 3DS 00.01.37 are still experimental. So far they have run in the Azahar emulator and passed one test on a real console. If the picture looks wrong or the game stutters, turn OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback).
+The speed-ups since 3DS 00.01.37 are still experimental. If the picture looks wrong or the game stutters, turn OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback). The file `tougelike.log` on the SD card helps most: it records how fast the game ran and where the time went.
 
 ## Controls
 
