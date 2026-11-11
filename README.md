@@ -8,7 +8,7 @@ Retro racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. 
 
 **[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu, a 3DSX for the Homebrew Launcher and a .3ds for emulators.
 
-No 3DS? Tougelike also runs in the browser at [njlent.de/tougelike](https://njlent.de/tougelike/), on PC and phone.
+No 3DS? Tougelike also runs in the browser at [njlent.de/gamse/tougelike](https://njlent.de/games/tougelike/), on PC and phone.
 
 ## Screenshots
 
