@@ -3,6 +3,10 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+## 3DS 00.01.40
+- Late in a long run, cars could lose their bodies and drive on as wheels and lights. The game had filled its graphics memory with roadside landmarks it had long passed, so a car that arrived found no room for its body. It now frees what is no longer on screen.
+- The speed lines in tougelike.log now say how much graphics memory is free and whether anything was left out for lack of it.
+
 ## 3DS 00.01.39
 - OPTIONS, VISUAL, PARTICLES now sets how much the module effects draw. DYNAMIC draws every spark, flame and puff of smoke, STATIC about half of them, DISABLED the fewest. Before, DYNAMIC and STATIC looked the same on the 3DS.
 - PARTICLES starts on STATIC, which runs a little faster in runs full of effects. A setting saved by an earlier version moves to STATIC once, and DISABLED stays.
