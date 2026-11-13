@@ -3,6 +3,22 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+## 3DS 00.01.44
+- tougelike.log on the SD card is shorter and easier to read. It starts with the game's version and your options, then lists the game's speed as a table with one row for every 600 frames. Each of those was one very long line before.
+- The log notes it when you change an option that affects speed.
+
+## 3DS 00.01.43
+- On an Old 3DS or 2DS a landmark with trees and rocks planted around it cost a race up to a third of its frame rate for as long as it was in view. A second log from a real console showed it. The game now places those plants once, where it worked them out again in every frame.
+- With DEBUG on, the menus run faster. Its figures change four times a second.
+
+## 3DS 00.01.42
+- An Old 3DS or 2DS runs a race about a tenth faster again, early in a run and late in a long one. Part of that comes from the second processor core, so leave SECOND CORE on in OPTIONS, VISUAL unless the game misbehaves.
+
+## 3DS 00.01.41
+- On an Old 3DS or 2DS the game dropped to 7 to 9 frames a second whenever a breakdown lay-by came up beside the road. That lasted about a quarter of a minute in a run and over half a minute on the title screen. A log from a real console showed it, and it is fixed.
+- Races run about a tenth faster on an Old 3DS or 2DS, and the menus about a fifth.
+- The speed lines in tougelike.log now say what the game was doing, count the slow frames they used to leave out and split the time by more parts.
+
 ## 3DS 00.01.40
 - Late in a long run, cars could lose their bodies and drive on as wheels and lights. The game had filled its graphics memory with roadside landmarks it had long passed, so a car that arrived found no room for its body. It now frees what is no longer on screen.
 - The speed lines in tougelike.log now say how much graphics memory is free and whether anything was left out for lack of it.
