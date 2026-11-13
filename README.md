@@ -4,7 +4,7 @@
 
 # Tougelike for Nintendo 3DS
 
-<img src="https://custom-icon-badges.demolab.com/badge/o3DS/o2DS-E60012?logo=nintendo&logoColor=fff"/> <img src="https://custom-icon-badges.demolab.com/badge/n3DS/n2DS-E60012?logo=nintendo&logoColor=fff"/> <img src="https://img.shields.io/github/downloads/njlent/tougelike-3ds-pub/total"/> <br>
+<img src="https://custom-icon-badges.demolab.com/badge/o3DS/o2DS-D12228"/> <img src="https://custom-icon-badges.demolab.com/badge/n3DS/n2DS-D12228"/> <img src="https://img.shields.io/github/downloads/njlent/tougelike-3ds-pub/total"/> <br>
 Retro racing roguelike on Japanese mountain roads, on the Nintendo 3DS and 2DS. Race down touge passes in the dark, drift through the bends, weave through traffic, take down rivals and bosses, and build every run from module drafts. It is the full game from [Tougelike](https://njlent.de/tougelike/), running on the console itself with a two-screen HUD.
 
 **[Download the latest release](https://github.com/njlent/tougelike-3ds-pub/releases/latest)**: a CIA for the HOME Menu, a 3DSX for the Homebrew Launcher and a .3ds for emulators. On the console, Universal-Updater installs it too. Tougelike is [listed on Universal-DB](https://db.universal-team.net/3ds/tougelike).
