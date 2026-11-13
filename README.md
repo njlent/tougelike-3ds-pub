@@ -76,8 +76,8 @@ The speed-ups since 3DS 00.01.37 are still experimental. If the picture looks wr
 | X | Camera | |
 | START | Pause | |
 
-Menus also take taps on the bottom screen. Driving is buttons only. The intro is off by default; turn it on under OPTIONS, GAME, INTRO.
+The Circle Pad steers by how far you push it, and the D-pad gives full lock. Menus also take taps on the bottom screen. Driving is buttons only. The intro is off by default; turn it on under OPTIONS, GAME, INTRO.
 
 ## Feedback
 
-Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works.
+Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works. The title screen and the CHANGELOG screen name two addresses for it: [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), the game's page with the Discord and the rest of the community, and [github.com/njlent/tougelike-3ds-pub](https://github.com/njlent/tougelike-3ds-pub).

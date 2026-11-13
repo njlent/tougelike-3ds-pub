@@ -3,6 +3,14 @@
 What changed in Tougelike for Nintendo 3DS, newest first. Only changes to the game are listed. The
 game's CHANGELOG screen shows these above the notes of the web game it is built on.
 
+Found a bug or have an idea? Tell us on the game's page, [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), which links the
+Discord, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) on GitHub.
+
+## 3DS 00.01.45
+- The Circle Pad steers by how far you push it. A light push turns the car a little, and near the rim it is full lock. Any push was full lock before. The D-pad steers as it did, and STEERING RAMP in OPTIONS, GAME now shapes the D-pad only.
+- The title screen and the CHANGELOG screen show where to send bug reports and ideas: njlent.de/games/tougelike, which links the Discord, and github.com/njlent/tougelike-3ds-pub.
+- The game underneath is Tougelike 00.22.41, which added controllers to the web game. The Circle Pad steers like a controller's stick does there.
+
 ## 3DS 00.01.44
 - tougelike.log on the SD card is shorter and easier to read. It starts with the game's version and your options, then lists the game's speed as a table with one row for every 600 frames. Each of those was one very long line before.
 - The log notes it when you change an option that affects speed.
