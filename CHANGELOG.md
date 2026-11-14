@@ -6,6 +6,43 @@ game's CHANGELOG screen shows these above the notes of the web game it is built 
 Found a bug or have an idea? Tell us on the game's page, [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), which links the
 Discord, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) on GitHub.
 
+## 3DS 00.01.53
+- A New 3DS is no longer held at 30 frames a second where it cannot reach 60. Each frame is shown as soon as it is ready, so the game runs at whatever the console manages above 30. OPTIONS, VISUAL, FRAME RATE 30 still gives the even 30.
+
+## 3DS 00.01.52
+- On a New 3DS a race no longer changes its frame rate every half minute. The game stepped up from 30 whenever a moment of light frames suggested more was in reach, and stepped back a few seconds later. It now waits for a longer stretch of them, and each try that fails makes the next one wait twice as long.
+- `tougelike.log` no longer counts time in the HOME menu or asleep as loading.
+
+## 3DS 00.01.51
+- A race no longer hitches about once a second on an Old 3DS or 2DS. The signs, lamps and posts beside the road were all placed again in a single frame each time. What decides where they stand is now kept until they move on, and late in a long run fewer than half as many frames take over a tenth of a second.
+- A car model that loads in the middle of a race holds the game for less time. Its file is read in a third of the time it took.
+- A frame takes slightly less time to draw.
+
+## 3DS 00.01.50
+- Late in a run an Old 3DS or 2DS no longer stops for a tenth of a second every three seconds. The bottom screen worked the whole run out again each time, and that took longer with every part fitted.
+- A car model that has to load in the middle of a race no longer freezes it. The load is spread over a few seconds of driving, and a third car of a kind is made ready the same way.
+- Tunnels and the reservoir no longer hitch once a second while you drive past them.
+- A New 3DS can now show more than 30 frames a second where it cannot hold 60. FRAME RATE 30 in the options keeps the even 30.
+
+## 3DS 00.01.49
+- The freeze as a landmark comes up beside the road is gone. Placing a shrine's or a lay-by's trees and bushes held an Old 3DS or 2DS for a quarter to three quarters of a second each time. The console's second core now places them while you drive, and they stand exactly where they did.
+- With SECOND CORE off in the options the same moment takes about a twentieth of a second.
+- A car of a kind not seen yet in the run, and the cars parked at a landmark, no longer hold an Old 3DS or 2DS for up to a tenth of a second the first time they are drawn.
+
+## 3DS 00.01.48
+- Less stutter in a race on an Old 3DS or 2DS. A new car coming onto the road held the game for over a tenth of a second, and one whose model had to be loaded first for over a second. Cars are now made ready when their model loads, and loading one is much shorter. The game also starts about seven seconds sooner there.
+- The cars are drawn with about a third fewer triangles and look the same, in the garage too. The valley beyond the road is drawn only where you can see it. Together a race has about a quarter less to draw, which takes work off the console's graphics chip.
+- Tunnels and the landmarks beside the road cost less while they are near, and drifting costs a little less again.
+
+## 3DS 00.01.47
+- Drifting costs less. On an Old 3DS or 2DS the skid marks behind the car took more of every frame the longer a drift went on. A race with a lot of drifting runs about a twentieth faster.
+- The title screen and the garage run faster on an Old 3DS or 2DS, by about a tenth of the work in each frame. They also no longer slow down, for minutes at times, while a drifting rival waits out of sight for a bend to slide through.
+- tougelike.log on the SD card now says where the longest frames went, so the next log can explain the stutter that this one could only count.
+
+## 3DS 00.01.46
+- The garage flickered. Stretches of the guard rail with its posts, the striped barriers, and trees and bushes beside the road dropped out of the picture and snapped back about once a second, and whatever stands behind them showed through. It showed most on an Old 3DS or 2DS. They stay in the picture now.
+- The road and the ground at the far end of the garage's view, in the top left corner of the screen, were missing. They are drawn now.
+
 ## 3DS 00.01.45
 - The Circle Pad steers by how far you push it. A light push turns the car a little, and near the rim it is full lock. Any push was full lock before. The D-pad steers as it did, and STEERING RAMP in OPTIONS, GAME now shapes the D-pad only.
 - The title screen and the CHANGELOG screen show where to send bug reports and ideas: njlent.de/games/tougelike, which links the Discord, and github.com/njlent/tougelike-3ds-pub.

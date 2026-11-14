@@ -61,7 +61,7 @@ Loading a save replaces the progress that was there.
 
 ## Performance
 
-A New 3DS aims for 60 fps and holds 30 where it cannot keep up. An Old 3DS or 2DS aims for 30 and, below that, shows each frame as soon as it is ready. A real Old 3DS ran 00.01.39 at 20 to 24 fps in the menus and 16 to 19 in a race. The emulator, set to the speed that console measured, runs 00.01.42 at 25 to 28 in the menus, 17 to 19 early in a run and about 13 late in a long one. OPTIONS, VISUAL, FRAME RATE holds 30 at most for players who prefer that.
+A New 3DS aims for 60 fps and, where it cannot hold that, shows each frame as soon as it is ready. A real one ran 00.01.50 at 38 to 50 fps on the title screen and was still held at 30 in a race, which 00.01.53 no longer does. An Old 3DS or 2DS aims for 30 and, below that, shows each frame as soon as it is ready. A real Old 3DS ran 00.01.45 at 24 fps on the title screen and 15 to 17 in a race. The emulator, set to the speed that console measured, runs 00.01.53 at 27 to 30 on the title screen, about 19 early in a run and about 14 late in a long one. OPTIONS, VISUAL, FRAME RATE holds an even 30 at most for players who prefer that.
 
 The speed-ups since 3DS 00.01.37 are still experimental. If the picture looks wrong or the game stutters, turn OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback). The file `tougelike.log` on the SD card helps most: it records how fast the game ran and where the time went.
 
