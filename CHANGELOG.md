@@ -6,6 +6,25 @@ game's CHANGELOG screen shows these above the notes of the web game it is built 
 Found a bug or have an idea? Tell us on the game's page, [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), which links the
 Discord, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) on GitHub.
 
+## 3DS 00.01.57
+- Corners no longer snap to the pixel grid unless you turn on OPTIONS, VISUAL, VERTEX SNAP, so edges hold still instead of wobbling as things move. Without the snap each picture gives the graphics chip about a tenth less work.
+- The CIA carries its version, 1.57.0, where every CIA since 00.01.25 said 1.0.0.
+
+## 3DS 00.01.56
+- The game no longer freezes on a 3DS once loading reaches 100%, as it did since 00.01.54. Its 3D graphics broke a rule of the console's graphics chip that emulators do not check, and keeping to it gives the chip about a twentieth more work for each picture.
+- On a real Old 3DS a race shows about 35 pictures a second from 20 to 22 steps of the game, where 00.01.45 showed 15 to 17.
+
+## 3DS 00.01.55
+- On slower devices such as phones, emulators like Azahar no longer run the game in slow motion with the sound breaking up. In 00.01.54 they had to work out much of each picture on the processor instead of the graphics card.
+
+## 3DS 00.01.54
+- The picture moves much more smoothly. While the game works out its next step, the console draws the last one again from where the camera will be by then, so the screen shows more pictures than the game takes steps. In the emulator an Old 3DS or 2DS shows about 50 pictures a second in a race, where 00.01.53 showed 14 to 19, and a New 3DS comes close to 60. OPTIONS, VISUAL, SMOOTH FRAMES turns this off.
+- In the emulator each step of the game takes less time than in 00.01.53, late in a long run about two fifths less. The game's script runs faster, and the markers over rivals, the sprites and the HUD cost less.
+- By the emulator's count each picture gives the graphics chip about a sixth less work, with nothing on the screen changed.
+- Cars that are small on the screen are drawn with fewer triangles. Up close a car looks as it did, and its lamps stay whole at any distance.
+- Your headlights now light the trees, rails and other cars as one wide beam. On the road itself you still see both.
+- Guard rails, posts and tree trunks no longer draw the faces nobody sees.
+
 ## 3DS 00.01.53
 - A New 3DS is no longer held at 30 frames a second where it cannot reach 60. Each frame is shown as soon as it is ready, so the game runs at whatever the console manages above 30. OPTIONS, VISUAL, FRAME RATE 30 still gives the even 30.
 
