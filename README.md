@@ -63,7 +63,7 @@ Loading a save replaces the progress that was there.
 
 A n3DS/n2DS aims for 60 fps and an o3DS/o2DS for 30.
 
-The speed-ups are still somewhat experimental. If the picture looks wrong or the game stutters, try OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback). The file `tougelike.log` on the SD card helps most: it records how fast the game ran and where the time went.
+The speed-ups are still somewhat experimental. If the picture looks wrong or the game stutters, try OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback). The file `tougelike.log` on the SD card helps most: it records how fast the game ran and where the time went. Please make sure you are on the latest version before submitting an issue.
 
 ## Controls
 
@@ -80,4 +80,4 @@ The Circle Pad steers by how far you push it, and the D-pad gives full lock. Men
 
 ## Feedback
 
-Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works. The title screen and the CHANGELOG screen name two addresses for it: [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), the game's page with the Discord and the rest of the community, and [github.com/njlent/tougelike-3ds-pub](https://github.com/njlent/tougelike-3ds-pub).
+Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works. 
