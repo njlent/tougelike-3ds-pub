@@ -80,4 +80,4 @@ The Circle Pad steers by how far you push it, and the D-pad gives full lock. Men
 
 ## Feedback
 
-Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works. 
+Found a bug or have an idea? Post it on the [Tougelike Discord](https://discord.gg/rX5sCHsW6j), where the community and the playtesting are, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) here on GitHub. Either works. Please make sure you are on the latest version before submitting an issue.
