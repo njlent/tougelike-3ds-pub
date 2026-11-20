@@ -61,7 +61,7 @@ Loading a save replaces the progress that was there.
 
 ## Performance
 
-A New 3DS aims for 60 fps and an Old 3DS or 2DS for 30. Since 00.01.54 the console draws the last step of the game again, from where the camera will be, while it works out the next one, so the screen shows more pictures than the game takes steps. In the emulator, set to the speed of a real Old 3DS, a race shows about 51 pictures a second from 22 to 27 steps, and at a New 3DS's speed 56 to 58 from 57 to 58 steps. A real Old 3DS running 00.01.56, which always snapped vertices, shows about 35 pictures a second in a race from 20 to 22 steps, and 20 to 25 steps with SMOOTH FRAMES off; 00.01.45 ran at 15 to 17 fps there. A real New 3DS running 00.01.63's BENCHMARK, a late and busy descent, takes 54 steps a second and shows 53 pictures with SMOOTH FRAMES off, and 50 steps and 54 pictures with it on, so since 00.01.65 SMOOTH FRAMES starts off on a New 3DS or New 2DS. OPTIONS, VISUAL, SMOOTH FRAMES turns the pictures in between on or off, and FRAME RATE 30 holds the game to 30 steps a second at most; with SMOOTH FRAMES off as well, the screen shows 30 pictures a second at most.
+A n3DS/n2DS aims for 60 fps and an o3DS/o2DS for 30.
 
 The speed-ups are still somewhat experimental. If the picture looks wrong or the game stutters, try OPTIONS, VISUAL, SECOND CORE off or set FRAME RATE to 30, and tell us what you saw under [Feedback](#feedback). The file `tougelike.log` on the SD card helps most: it records how fast the game ran and where the time went.
 
