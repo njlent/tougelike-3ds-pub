@@ -6,40 +6,43 @@ game's CHANGELOG screen shows these above the notes of the web game it is built 
 Found a bug or have an idea? Tell us on the game's page, [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), which links the
 Discord, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) on GitHub.
 
+## 3DS 00.01.69
+- A busy race could freeze the whole console, and only the power button got you out. A rare mix of what was on screen stopped the 3DS's graphics chip. A n3DS has since driven the same busy late-game descent 20 times in a row without a freeze.
+- A few kilometres into a run, road and rock textures at the sides and bottom of the screen no longer smear into streaks.
+
+## 3DS 00.01.68
+- The title screen and the CHANGELOG screen now give tougelike.com for bug reports and ideas, in place of njlent.de/games/tougelike.
+
 ## 3DS 00.01.67
 - Drafts, route choices and part offers show your CONDITION at the top right, beside your chips, so you can see how much a repair would help before you pick.
 - SPOOL's multiplier is boost blue, as in the web game.
 - The combo's timer bar sits clear below its number instead of touching it, and the HAIRPIN warning under it moved down to make room.
 
 ## 3DS 00.01.66
-- BENCHMARK could run out of memory as it finished with a long-played save and stop the game. It now clears up memory before it reads your save back.
-- Leaving the garage with a long-played save could run out of memory the same way. When memory is short, the game now clears it up before it saves, which on an Old 3DS adds about half a second to the save.
+- Leaving the garage with a long-played save could run out of memory. When memory is short, the game now clears it up before it saves, which on an o3DS adds about half a second to the save.
 
 ## 3DS 00.01.65
-- SMOOTH FRAMES now starts off on a New 3DS or New 2DS, where its extra pictures cost the game more steps than they add pictures. A choice you make in OPTIONS, VISUAL is kept, and an Old 3DS or 2DS keeps it on unless you had turned it off.
+- SMOOTH FRAMES now starts off on a n3DS/n2DS, where its extra pictures cost the game more steps than they add pictures. A choice you make in OPTIONS, VISUAL is kept, and an o3DS/o2DS keeps it on unless you had turned it off.
 - The CIA's version, as FBI shows it, is now 2.1.0. The old numbering stopped at 1.63.
 
-## 3DS 00.01.64
-- BENCHMARK drives the same race every time you run it. A second run in one sitting started with some of the last run's state left over and drove a slightly different race, so its figures did not compare with the first run's.
-
 ## 3DS 00.01.63
-- Saving stops the game for much less time with a long-played save. In an emulator at Old 3DS speed, getting a save of about 250 runs ready to write went from 1.2 seconds to under 0.4, every time the game saves. Writing it to the SD card takes as long as before.
-- The garage menu keeps responding while it brings in the car you stopped on. In an emulator at Old 3DS speed its slowest frames went from 0.3 seconds to about 0.1, and the car arrives just as soon. Loading behind prompts and the results screen works the same way now.
+- Saving stops the game for much less time with a long-played save. At o3DS speed, getting a save of about 250 runs ready to write went from 1.2 seconds to under 0.4, every time the game saves. Writing it to the SD card takes as long as before.
+- The garage menu keeps responding while it brings in the car you stopped on. At o3DS speed its slowest frames went from 0.3 seconds to about 0.1, and the car arrives just as soon. Loading behind prompts and the results screen works the same way now.
 - A new draft, route or part offer shows up before the game cleans up memory, not after. The cleanup comes right after it appears, while the prompt usually doesn't take a pick yet.
 - tougelike.log's upkeep line counts the saves and how long the longest took to get ready and to write. A test build installed as a CIA also times another way of getting memory ready for the graphics chip.
 
 ## 3DS 00.01.62
-- An Old 3DS's log showed the game stopping for about a fifth of a second every 600 frames, while it wrote tougelike.log to the SD card. The log now has a writer of its own, and the game no longer waits for it.
-- Drafts, routes and part offers clean up memory much less often. A cleanup takes about 0.4 seconds at Old 3DS speed and holds up the cursor, and they used to do one every time they opened or changed.
+- An o3DS's log showed the game stopping for about a fifth of a second every 600 frames, while it wrote tougelike.log to the SD card. The log now has a writer of its own, and the game no longer waits for it.
+- Drafts, routes and part offers clean up memory much less often. A cleanup takes about 0.4 seconds at o3DS speed and holds up the cursor, and they used to do one every time they opened or changed.
 - tougelike.log adds a line under each row with the free memory, the cleanups and the log's own writing.
 
 ## 3DS 00.01.61
 - Scrolling the garage's car list no longer loads every car you pass. The top screen brings in the car the cursor stops on, or right away when you press A or change tab.
-- The garage saves once, when you leave it, instead of after every upgrade, perk or paint change. With a long-played save each of those saves froze the garage for 1.7 seconds in an emulator running at Old 3DS speed.
+- The garage saves once, when you leave it, instead of after every upgrade, perk or paint change. With a long-played save each of those saves froze the garage for 1.7 seconds in an emulator running at o3DS speed.
 - With a long-played save, OPTIONS, SAVE could run out of memory and stop the game, on opening or on EXPORT TO SD and IMPORT FROM SD. It now needs much less memory, and the screen says what it is doing while it works.
 
 ## 3DS 00.01.60
-- On an Old 3DS each step of the game should take a little less time. How much it saves on a real console is not measured yet.
+- On an o3DS each step of the game should take a little less time. How much it saves on a real console is not measured yet.
 - BENCHMARK's census, and the measurements a test build takes at start, write more figures on copying and flushing memory to tougelike.log.
 
 ## 3DS 00.01.59
