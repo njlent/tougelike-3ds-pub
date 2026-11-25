@@ -6,6 +6,13 @@ game's CHANGELOG screen shows these above the notes of the web game it is built 
 Found a bug or have an idea? Tell us on the game's page, [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), which links the
 Discord, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) on GitHub.
 
+## 3DS 00.01.71
+- The HOME Menu banner is now a 3D scene of the HACHI 86 driving under the Tougelike logo, seen from all round. It boosts away with a blue exhaust flame, and its exhaust pops.
+
+## 3DS 00.01.70
+- When a new version is out, the title screen says so and an orange UPDATE row appears in its menu. The game asks once after it starts, only in the menus and never during a race. OPTIONS, GAME, CHECK FOR UPDATES turns it off.
+- UPDATE downloads the new version and installs it over the HOME Menu version or over tougelike.3dsx from the Homebrew Launcher, then starts the game again. The download is checked against the release's checksum before anything changes, and your saves stay where they are.
+
 ## 3DS 00.01.69
 - A busy race could freeze the whole console, and only the power button got you out. A rare mix of what was on screen stopped the 3DS's graphics chip. A n3DS has since driven the same busy late-game descent 20 times in a row without a freeze.
 - A few kilometres into a run, road and rock textures at the sides and bottom of the screen no longer smear into streaks.

@@ -38,11 +38,13 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/games/tougelike](https:
 
 - **Universal-Updater:** find Tougelike in Universal-Updater and install the CIA or the 3DSX from there. A new version shows up there as an update. The listing is on [Universal-DB](https://db.universal-team.net/3ds/tougelike).
 - **QR code:** in FBI, choose Remote Install, then Scan QR Code, and scan the code shown here. FBI downloads the newest CIA and installs it to the HOME Menu; the console needs to be online.
-- **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, banner and jingle on the HOME Menu.
+- **HOME Menu:** copy the `.cia` to the SD card, open FBI, choose SD, pick the file and install it. Tougelike gets its own icon, an animated 3D banner and a jingle on the HOME Menu.
 - **Homebrew Launcher:** copy the `.3dsx` to the `/3ds/` folder on the SD card and start it from the Homebrew Launcher.
 - **Emulator:** open the `.3ds` or the `.3dsx`, or install the `.cia` with File, Install CIA. The `.3ds` is made for emulators and does not run on a console.
 
 Both keep their saves in the same files on the SD card, so you can switch between them.
+
+**Updates:** from 3DS 00.01.70 on, the game asks GitHub once after it starts, in the menus and never during a race, whether a new version is out. When one is, the title screen says so and UPDATE in its menu downloads it, checks it against the release's checksum and installs it over the CIA or the 3DSX, then starts the game again. Your saves stay where they are. It needs Wi-Fi, and OPTIONS, GAME, CHECK FOR UPDATES turns it off.
 
 ## Saves from the web game
 
