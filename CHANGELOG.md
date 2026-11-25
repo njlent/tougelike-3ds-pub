@@ -6,6 +6,9 @@ game's CHANGELOG screen shows these above the notes of the web game it is built 
 Found a bug or have an idea? Tell us on the game's page, [njlent.de/games/tougelike](https://njlent.de/games/tougelike/), which links the
 Discord, or [open an issue](https://github.com/njlent/tougelike-3ds-pub/issues) on GitHub.
 
+## 3DS 00.01.72
+- A long race in heavy traffic could run the game out of memory and stop it with "null" on the bottom screen. The game now keeps fewer car models loaded when memory runs low, so more of the cars around you look alike.
+
 ## 3DS 00.01.71
 - The HOME Menu banner is now a 3D scene of the HACHI 86 driving under the Tougelike logo, seen from all round. It boosts away with a blue exhaust flame, and its exhaust pops.
 
