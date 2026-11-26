@@ -44,7 +44,7 @@ No 3DS? Tougelike also runs in the browser at [njlent.de/games/tougelike](https:
 
 Both keep their saves in the same files on the SD card, so you can switch between them.
 
-**Updates:** from 3DS 00.01.70 on, the game asks GitHub once after it starts, in the menus and never during a race, whether a new version is out. When one is, the title screen says so and UPDATE in its menu downloads it, checks it against the release's checksum and installs it over the CIA or the 3DSX, then starts the game again. Your saves stay where they are. It needs Wi-Fi, and OPTIONS, GAME, CHECK FOR UPDATES turns it off.
+**Updates:** from 3DS 00.01.70 on, the game asks GitHub once after it starts if there is a new version available. When one is, the title screen says so and UPDATE in its menu downloads it. Your saves stay where they are. It needs Wi-Fi. OPTIONS, GAME, CHECK FOR UPDATES turns it off.
 
 ## Saves from the web game
 
